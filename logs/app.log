@@ -1,0 +1,43 @@
+[2025-12-06 16:13:05,233] INFO in aiogram.dispatcher: Start polling
+[2025-12-06 16:13:05,341] INFO in aiogram.dispatcher: Run polling for bot @testlovchi_bot id=8447364231 - 'Development'
+[2025-12-06 16:13:17,202] WARNING in aiogram.dispatcher: Received SIGINT signal
+[2025-12-06 16:13:17,205] INFO in aiogram.dispatcher: Polling stopped for bot @testlovchi_bot id=8447364231 - 'Development'
+[2025-12-06 16:13:17,205] INFO in aiogram.dispatcher: Polling stopped
+[2025-12-06 16:21:45,791] ERROR in asyncio: Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x108023a70>
+[2025-12-06 16:21:45,793] ERROR in asyncio: Unclosed connector
+connections: ['deque([(<aiohttp.client_proto.ResponseHandler object at 0x108025970>, 50596.04359275)])']
+connector: <aiohttp.connector.TCPConnector object at 0x108023a40>
+[2025-12-06 16:22:02,090] INFO in app.bot.handler.lifespan: Bot is starting up
+[2025-12-06 16:22:02,091] INFO in aiogram.dispatcher: Start polling
+[2025-12-06 16:22:02,231] INFO in aiogram.dispatcher: Run polling for bot @testlovchi_bot id=8447364231 - 'Development'
+[2025-12-06 16:23:11,966] WARNING in aiogram.dispatcher: Received SIGINT signal
+[2025-12-06 16:23:11,970] INFO in aiogram.dispatcher: Polling stopped for bot @testlovchi_bot id=8447364231 - 'Development'
+[2025-12-06 16:23:11,970] INFO in aiogram.dispatcher: Polling stopped
+[2025-12-06 16:23:11,970] INFO in app.bot.handler.lifespan: Bot is shutting down
+[2025-12-06 16:23:16,047] INFO in app.bot.handler.lifespan: Bot is starting up
+[2025-12-06 16:23:16,056] INFO in aiogram.dispatcher: Start polling
+[2025-12-06 16:23:16,191] INFO in aiogram.dispatcher: Run polling for bot @testlovchi_bot id=8447364231 - 'Development'
+[2025-12-06 16:23:49,544] WARNING in aiogram.dispatcher: Received SIGINT signal
+[2025-12-06 16:23:49,553] INFO in aiogram.dispatcher: Polling stopped for bot @testlovchi_bot id=8447364231 - 'Development'
+[2025-12-06 16:23:49,565] INFO in aiogram.dispatcher: Polling stopped
+[2025-12-06 16:23:49,566] INFO in app.bot.handler.lifespan: Bot is shutting down
+[2025-12-06 16:23:52,537] ERROR in asyncio: Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x10a33bbf0>
+[2025-12-06 16:23:52,537] ERROR in asyncio: Unclosed connector
+connections: ['deque([(<aiohttp.client_proto.ResponseHandler object at 0x10a345910>, 50722.792409166)])']
+connector: <aiohttp.connector.TCPConnector object at 0x10a33bbc0>
+[2025-12-06 16:25:04,929] INFO in app.bot.lifespan: Bot is starting up
+[2025-12-06 16:25:04,930] INFO in aiogram.dispatcher: Start polling
+[2025-12-06 16:25:05,070] INFO in aiogram.dispatcher: Run polling for bot @testlovchi_bot id=8447364231 - 'Development'
+[2025-12-06 16:25:15,564] WARNING in aiogram.dispatcher: Received SIGINT signal
+[2025-12-06 16:25:15,565] INFO in aiogram.dispatcher: Polling stopped for bot @testlovchi_bot id=8447364231 - 'Development'
+[2025-12-06 16:25:15,566] INFO in aiogram.dispatcher: Polling stopped
+[2025-12-06 16:25:15,566] INFO in app.bot.lifespan: Bot is shutting down
+[2025-12-06 16:25:18,885] INFO in app.bot.lifespan: Bot is starting up ✅
+[2025-12-06 16:25:18,886] INFO in aiogram.dispatcher: Start polling
+[2025-12-06 16:25:18,998] INFO in aiogram.dispatcher: Run polling for bot @testlovchi_bot id=8447364231 - 'Development'
+[2025-12-06 16:25:24,214] WARNING in aiogram.dispatcher: Received SIGINT signal
+[2025-12-06 16:25:24,214] INFO in aiogram.dispatcher: Polling stopped for bot @testlovchi_bot id=8447364231 - 'Development'
+[2025-12-06 16:25:24,215] INFO in aiogram.dispatcher: Polling stopped
+[2025-12-06 16:25:24,215] INFO in app.bot.lifespan: Bot is shutting down ✅

@@ -1,0 +1,36 @@
+{"time": "2025-12-06 16:13:05,233", "level": "INFO", "name": "aiogram.dispatcher", "message": "Start polling"}
+{"time": "2025-12-06 16:13:05,341", "level": "INFO", "name": "aiogram.dispatcher", "message": "Run polling for bot @testlovchi_bot id=8447364231 - 'Development'"}
+{"time": "2025-12-06 16:13:17,202", "level": "WARNING", "name": "aiogram.dispatcher", "message": "Received SIGINT signal"}
+{"time": "2025-12-06 16:13:17,205", "level": "INFO", "name": "aiogram.dispatcher", "message": "Polling stopped for bot @testlovchi_bot id=8447364231 - 'Development'"}
+{"time": "2025-12-06 16:13:17,205", "level": "INFO", "name": "aiogram.dispatcher", "message": "Polling stopped"}
+{"time": "2025-12-06 16:21:45,791", "level": "ERROR", "name": "asyncio", "message": "Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x108023a70>"}
+{"time": "2025-12-06 16:21:45,793", "level": "ERROR", "name": "asyncio", "message": "Unclosed connector
+connections: ['deque([(<aiohttp.client_proto.ResponseHandler object at 0x108025970>, 50596.04359275)])']
+connector: <aiohttp.connector.TCPConnector object at 0x108023a40>"}
+{"time": "2025-12-06 16:22:02,090", "level": "INFO", "name": "app.bot.handler.lifespan", "message": "Bot is starting up"}
+{"time": "2025-12-06 16:22:02,091", "level": "INFO", "name": "aiogram.dispatcher", "message": "Start polling"}
+{"time": "2025-12-06 16:22:02,231", "level": "INFO", "name": "aiogram.dispatcher", "message": "Run polling for bot @testlovchi_bot id=8447364231 - 'Development'"}
+{"time": "2025-12-06 16:23:11,966", "level": "WARNING", "name": "aiogram.dispatcher", "message": "Received SIGINT signal"}
+{"time": "2025-12-06 16:23:11,970", "level": "INFO", "name": "aiogram.dispatcher", "message": "Polling stopped for bot @testlovchi_bot id=8447364231 - 'Development'"}
+{"time": "2025-12-06 16:23:11,970", "level": "INFO", "name": "aiogram.dispatcher", "message": "Polling stopped"}
+{"time": "2025-12-06 16:23:11,970", "level": "INFO", "name": "app.bot.handler.lifespan", "message": "Bot is shutting down"}
+{"time": "2025-12-06 16:23:52,537", "level": "ERROR", "name": "asyncio", "message": "Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x10a33bbf0>"}
+{"time": "2025-12-06 16:23:52,537", "level": "ERROR", "name": "asyncio", "message": "Unclosed connector
+connections: ['deque([(<aiohttp.client_proto.ResponseHandler object at 0x10a345910>, 50722.792409166)])']
+connector: <aiohttp.connector.TCPConnector object at 0x10a33bbc0>"}
+{"time": "2025-12-06 16:25:04,929", "level": "INFO", "name": "app.bot.lifespan", "message": "Bot is starting up"}
+{"time": "2025-12-06 16:25:04,930", "level": "INFO", "name": "aiogram.dispatcher", "message": "Start polling"}
+{"time": "2025-12-06 16:25:05,070", "level": "INFO", "name": "aiogram.dispatcher", "message": "Run polling for bot @testlovchi_bot id=8447364231 - 'Development'"}
+{"time": "2025-12-06 16:25:15,564", "level": "WARNING", "name": "aiogram.dispatcher", "message": "Received SIGINT signal"}
+{"time": "2025-12-06 16:25:15,565", "level": "INFO", "name": "aiogram.dispatcher", "message": "Polling stopped for bot @testlovchi_bot id=8447364231 - 'Development'"}
+{"time": "2025-12-06 16:25:15,566", "level": "INFO", "name": "aiogram.dispatcher", "message": "Polling stopped"}
+{"time": "2025-12-06 16:25:15,566", "level": "INFO", "name": "app.bot.lifespan", "message": "Bot is shutting down"}
+{"time": "2025-12-06 16:25:18,885", "level": "INFO", "name": "app.bot.lifespan", "message": "Bot is starting up ✅"}
+{"time": "2025-12-06 16:25:18,886", "level": "INFO", "name": "aiogram.dispatcher", "message": "Start polling"}
+{"time": "2025-12-06 16:25:18,998", "level": "INFO", "name": "aiogram.dispatcher", "message": "Run polling for bot @testlovchi_bot id=8447364231 - 'Development'"}
+{"time": "2025-12-06 16:25:24,214", "level": "WARNING", "name": "aiogram.dispatcher", "message": "Received SIGINT signal"}
+{"time": "2025-12-06 16:25:24,214", "level": "INFO", "name": "aiogram.dispatcher", "message": "Polling stopped for bot @testlovchi_bot id=8447364231 - 'Development'"}
+{"time": "2025-12-06 16:25:24,215", "level": "INFO", "name": "aiogram.dispatcher", "message": "Polling stopped"}
+{"time": "2025-12-06 16:25:24,215", "level": "INFO", "name": "app.bot.lifespan", "message": "Bot is shutting down ✅"}
