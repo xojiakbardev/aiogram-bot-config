@@ -1,21 +1,20 @@
+from redis.asyncio import Redis
 from aiogram import Bot, Dispatcher
+from aiogram.fsm.storage.redis import RedisStorage
+from aiogram.client.bot import DefaultBotProperties
 
 from app.core.settings import settings
-from app.bot.handler import register_handlers
-from app.bot.middleware import register_middleware
 
 
-dp = Dispatcher()
-bot = Bot(token=settings.BOT_TOKEN)
+dp = Dispatcher(
+    storage=RedisStorage(
+        Redis.from_url(settings.BOT_REDIS_DSN)
+    )
+)
 
-
-async def start_bot_polling():
-    await register_handlers(dp)
-    await register_middleware(dp)
-    await bot.delete_webhook()
-    await dp.start_polling(bot)
-
-
-async def stop_bot_polling():
-    await dp.stop_polling()
-    await bot.session.close()
+bot = Bot(
+    token=settings.BOT_TOKEN,
+    default=DefaultBotProperties(
+        parse_mode="HTML"
+    )
+)

@@ -1,0 +1,56 @@
+# English translations for PROJECT.
+# Copyright (C) 2025 ORGANIZATION
+# This file is distributed under the same license as the PROJECT project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2025-12-07 19:08+0500\n"
+"PO-Revision-Date: 2025-12-07 15:42+0500\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: en\n"
+"Language-Team: en <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.17.0\n"
+
+#: app/bot/handler/locale.py:20
+msgid "Tilni tanlang"
+msgstr "Choose language"
+
+#: app/bot/handler/locale.py:32
+#, fuzzy, python-brace-format
+msgid "{} tiliga o'zgartirildi"
+msgstr "Changed to {} language"
+
+#: app/bot/handler/locale.py:34
+msgid "Sozlamalar yangilandi"
+msgstr "Updated settings"
+
+#: app/bot/handler/start.py:16
+msgid "Xush kelibsiz"
+msgstr "Welcome"
+
+#: app/bot/keyboards/main.py:8
+msgid "Asosiy menu"
+msgstr "Main menu"
+
+#: app/bot/keyboards/main.py:9
+msgid "Statistika"
+msgstr "Statistic"
+
+#: app/bot/keyboards/main.py:10
+#, fuzzy
+msgid "Sozlamalar"
+msgstr "Settings"
+
+#~ msgid "jarayonda ..."
+#~ msgstr "proccessing ..."
+
+#~ msgid "Murojat qilish"
+#~ msgstr "Contactact"
+

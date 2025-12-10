@@ -1,5 +1,6 @@
 .env
-.logs
+logs
+.venv
 
 # Python bytecode
 __pycache__/
